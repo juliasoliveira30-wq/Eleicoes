@@ -1,0 +1,14 @@
+{
+  "evento": "Feira de Projetos 2026",
+  "candidatos": [
+    {"numero": 10, "nome": "Planeta Vivo", "emoji": "🌱", "lema": "Projetos que cuidam do lugar onde estudamos.",
+     "propostas": ["Horta e compostagem na escola", "Mostra de reaproveitamento de materiais", "Medição de consumo de água e energia"]},
+    {"numero": 20, "nome": "Código & Circuitos", "emoji": "🤖", "lema": "Tecnologia feita pelos alunos, para os alunos.",
+     "propostas": ["Maratona de robótica e programação", "Oficinas de apps e sites", "Vitrine de protótipos de eletrônica"]},
+    {"numero": 30, "nome": "Cultura em Cena", "emoji": "🎭", "lema": "Todo projeto conta uma história.",
+     "propostas": ["Palco aberto com música, teatro e dança", "Exposição de artes visuais e fotografia", "Feira de saberes e culturas locais"]},
+    {"numero": 40, "nome": "Corpo em Movimento", "emoji": "🏃", "lema": "Saúde e esporte como projeto de vida.",
+     "propostas": ["Circuito de jogos e desafios esportivos", "Palestras de saúde e bem-estar", "Oficinas de alimentação saudável"]}
+  ],
+  "votosIniciais": {"10": 14, "20": 18, "30": 9, "40": 11}
+}
